@@ -18,7 +18,7 @@ body {
   background-image: url("https://i0.wp.com/textures.world/wp-content/uploads/2018/10/2-Millimeter-Paper-Background-copy.jpg?ssl=1");
   background-size: 500px;
   background-position: center center;
-  padding: 15px 60px;
+  padding: 10px 25px;
 /*  min-width: 800px; */
   
   transform: rotateZ(-5deg);
@@ -36,15 +36,15 @@ body {
 }
 
 .paper.image {
-  padding: 5px;
+  padding: 10px 25px;
 }
 .paper.image p {
-  font-size: 25px;
+  font-size: 45px;
 }
 
 img {
-  height: 450px;
-  width: 325px;
+ height: 480px;
+  width: 300px;
   user-select: none;
 }
 
