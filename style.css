@@ -43,14 +43,14 @@ body {
 }
 
 img {
- height: 520px;
-  width: 340px;
+ height: 550px;
+  width: 370px;
   user-select: none;
 }
 
 .fav {
-  height: 520px;
-  width: 370px;
+  height: 560px;
+  width: 410px;
 }
 
 .paper.heart::after {
